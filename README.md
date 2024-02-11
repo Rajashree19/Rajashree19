@@ -5,7 +5,7 @@
 
 ## 🛢️ Currently working as an Associate Business Analyst @Shell
 
-📫 Let's Connect!
+## 📫 Let's Connect!
 |Profile|Click Here|
 |-------|----|
 |LinkedIn|<a href="https://www.linkedin.com/in/rajashree-pati/"><img align="left" alt="Arya's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" /></a>|
