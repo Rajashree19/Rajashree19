@@ -15,7 +15,7 @@
 
 ---------------------
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajashree19&theme=dracula)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajashree19&theme=dark)
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/Rajashree19/count.svg" />
