@@ -1,9 +1,10 @@
 ![Rajashree's Banner](https://github.com/Rajashree19/Rajashree19/blob/main/assets/Banner.PNG)
 ---------------------
+
 ## 🌸 Hey There, I'm Rajashree, a CS Engineer weaving code with business insights
 
 ## 🛢️ Currently working as an Associate Business Analyst @Shell
----------------------
+
 📫 Let's Connect!
 |Profile|Click Here|
 |-------|----|
@@ -14,4 +15,6 @@
 
 ---------------------
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rajashree19&theme=react-dark&area=true)
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/Rajashree19/count.svg" />
+</p>
